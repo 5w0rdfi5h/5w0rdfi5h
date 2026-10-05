@@ -2,7 +2,7 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│  sanchit@redteam:~$ whoami                                      │
+│  5w0rdfi5h@redteam:~$ whoami                                      │
 │  > Offensive Security Engineer                                  │
 │  > Specialization: Adversary Simulation · EDR Evasion · AI/LLM  │
 └─────────────────────────────────────────────────────────────────┘
