@@ -45,8 +45,6 @@ I work closest to the metal: implant development, C2 infrastructure, EDR evasion
 
 **Nimzo** *(private)* — Custom Mythic C2 agent rewritten in Rust (`no_std`, position-independent). Small footprint, controlled execution semantics, built for operational security. Named after Nimzowitsch — unconventional and deeply uncomfortable for defenders to face.
 
-**Purple Team Program** — Building Omnissa's internal adversary simulation capability from Year 1: detection engineering pipeline, purple team operations, AI attack pilot. Mapping to MITRE ATT&CK to close detection gaps at enterprise scale.
-
 ---
 
 ## Stats
