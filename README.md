@@ -3,7 +3,7 @@
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  sanchit@redteam:~$ whoami                                      │
-│  > Sanchit Bhatia  //  Offensive Security Engineer              │
+│  > Offensive Security Engineer                                  │
 │  > Specialization: Adversary Simulation · EDR Evasion · AI/LLM  │
 └─────────────────────────────────────────────────────────────────┘
 ```
