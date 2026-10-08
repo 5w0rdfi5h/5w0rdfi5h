@@ -51,9 +51,9 @@ I work closest to the metal: implant development, C2 infrastructure, EDR evasion
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=5w0rdfi5h&show_icons=true&theme=dark&bg_color=050A18&border_color=1C2A3A&title_color=00E5FF&icon_color=00E5FF&text_color=8892A4&hide_border=false)
+![GitHub Stats](https://github-readme-stats-xi-pink.vercel.app/api?username=5w0rdfi5h&show_icons=true&count_private=true&theme=dark&bg_color=050A18&border_color=1C2A3A&title_color=00E5FF&icon_color=00E5FF&text_color=8892A4&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=5w0rdfi5h&layout=compact&theme=dark&bg_color=050A18&border_color=1C2A3A&title_color=00E5FF&text_color=8892A4)
+![Top Languages](https://github-readme-stats-xi-pink.vercel.app/api/top-langs/?username=5w0rdfi5h&layout=compact&count_private=true&theme=dark&bg_color=050A18&border_color=1C2A3A&title_color=00E5FF&text_color=8892A4)
 
 </div>
 
